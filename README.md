@@ -1,5 +1,10 @@
 🌍 IP Geolocation Lookup Tool
 A powerful command-line tool for retrieving detailed geolocation information about IP addresses using multiple APIs with automatic fallback.
+🚀 How to start:
+download the zip archive, run the .exe file, 
+or download the open source code and run it
+
+
 
 ✨ Features
 Feature	Description
