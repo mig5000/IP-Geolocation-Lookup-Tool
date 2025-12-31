@@ -27,6 +27,8 @@ exit	Exit program
 📋 Information Retrieved
 📍 Location: Country, region, and city
 
+
+
 🌐 Coordinates: Geographic latitude and longitude
 
 🏢 Organization: ISP and organization information
