@@ -15,17 +15,15 @@ Feature	Description
 
 
 🎮 Interactive Mode Commands
-
-  Command          Description
-  me               Lookup your own IP address
-  batch            Enter multiple IPs interactively
-  file [path]      Read IPs from file
-  format           Change output format (pretty/json/csv)
-  save             Toggle auto-save feature
-  clear            Clear screen
-  help             Show command help
-  exit             Exit program
-
+Command	Description
+me:	Lookup your own IP address
+batch:	Enter multiple IPs interactively
+file: [path]	Read IPs from file
+format:	Change output format (pretty/json/csv)
+save:	Toggle auto-save feature
+clear:	Clear screen
+help:	Show command help
+exi:t	Exit program
 📋 Information Retrieved
   📍 Location:     Country, region, and city
   🌐 Coordinates:  Geographic latitude and longitude
