@@ -15,6 +15,7 @@ Feature	Description
 
 
 🎮 Interactive Mode Commands
+
   Command          Description
   me               Lookup your own IP address
   batch            Enter multiple IPs interactively
