@@ -74,3 +74,11 @@ pyinstaller --onefile --clean --name GeoIP GeoIP.py
 
 ✨ Perfect for network administrators, cybersecurity professionals, and developers!
 
+- IP geolocation lookup
+- IP address tracker
+- Network utility tool
+- Python CLI tool
+- IP information finder
+- Free geolocation API
+- Batch IP processing
+- Network administration tool
