@@ -15,17 +15,23 @@ Feature	Description
 
 
 🎮 Interactive Mode Commands
-Command	Description
-me	Lookup your own IP address
-batch	Enter multiple IPs interactively
-file [path]	Read IPs from file
-format	Change output format (pretty/json/csv)
-save	Toggle auto-save feature
-clear	Clear screen
-help	Show command help
-exit	Exit program
+  Command          Description
+  me               Lookup your own IP address
+  batch            Enter multiple IPs interactively
+  file [path]      Read IPs from file
+  format           Change output format (pretty/json/csv)
+  save             Toggle auto-save feature
+  clear            Clear screen
+  help             Show command help
+  exit             Exit program
+
 📋 Information Retrieved
-📍 Location: Country, region, and city
+  📍 Location:     Country, region, and city
+  🌐 Coordinates:  Geographic latitude and longitude
+  🏢 Organization: ISP and organization information
+  ⏰ Time:         Timezone and ZIP code
+  🔗 Network:      ASN and reverse DNS
+  🛡️ Security:     IP type detection (public/private/reserved)
 
 
 
