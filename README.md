@@ -11,6 +11,9 @@ Feature	Description
 💾 LRU Caching	Caches results for repeated queries
 🎮 Interactive Mode	User-friendly command interface
 📁 File Operations	Read IPs from text files and save results automatically
+
+
+
 🎮 Interactive Mode Commands
 Command	Description
 me	Lookup your own IP address
